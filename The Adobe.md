@@ -1,0 +1,6 @@
+For the best experience, open this PDF portfolio in
+
+Acrobat X or Adobe Reader X, or later.
+
+Get Adobe Reader Now!
+

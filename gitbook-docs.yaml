@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: SoA
+  structure:
+    - type: space
+      key: space-soa
+      title: Documentation
+      path: docs
+      default: true
+      content:
+        directory: .

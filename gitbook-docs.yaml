@@ -2,10 +2,15 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: SoA
   structure:
+    - type: section-group
+      key: section-group-1
+      title: FabLab
+      draft: true
+      children: []
     - type: space
       key: space-soa
       title: Documentation
       path: docs
       default: true
       content:
-        directory: .
+        directory: ./
